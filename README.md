@@ -52,7 +52,7 @@ The archive submission includes the following files:<br>
 2. A Jupyter Notebook file that runs the 'mini-dataset' project code (`Sparkify_mini_data.ipynb`)<br>
 3. A Jupyter Notebook file that runs the 'medium-dataset' project code (`Sparkify_medium_data.ipynb`)<br>
 4. A zip file of the 128MB json file that contains the 'mini-dataset' (`mini_sparkify_event_data.7z`)<br>
-5. A zip file of the 256MB json file that contains the 'medium-dataset' (`medium-sparkify-event-data.7zip`)<br>
+5. A zip file of the 256MB json file that contains the 'medium-dataset' (`medium-sparkify-event-data.7z`)<br>
 6. Icon image file (`u1up0ng_clip.png`)
 7. This `README.md` file
 
